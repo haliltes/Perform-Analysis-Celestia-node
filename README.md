@@ -3,7 +3,7 @@
 <h1>Perform analysis of my Celestia node</h1>
 
 Hello friends. I'm Halil TEKATLI from Turkey. This blog will be about celestia. I am one of the lucky users selected for celestia's incentivized testnet.
- I've been running my Celestia Light node since 29.03.2023 20:31:42. You can use the link below to see my node details.
+ I've been running my Celestia Light node since 29.03.2023 20:31:42. You can use the link below to see my node details.<br>
  https://tiascan.com/light-node/12D3KooWN5KW2qdVbioDZ9jC2cYW2YW29sMLWx7LxoZUCq7BhcgN 
 
   
